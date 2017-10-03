@@ -29,3 +29,6 @@ tags
 .DS_Store
 *.swp
 *.swo
+
+project.state
+repos/
