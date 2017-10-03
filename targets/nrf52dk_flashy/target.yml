@@ -1,0 +1,4 @@
+### Target: targets/nrf52dk_flashy
+target.app: "apps/flashy"
+target.bsp: "@apache-mynewt-core/hw/bsp/nrf52dk"
+target.build_profile: "optimized"
